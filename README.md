@@ -35,4 +35,4 @@ A full-stack Sweet Shop application built with **React** (Frontend) and **Fireba
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone <https://github.com/sachin7986/sweet-shop-kata>
+   git clone https://github.com/sachin7986/sweet-shop-kata
