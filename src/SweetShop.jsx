@@ -12,13 +12,13 @@ import {
 // ⬇️ PASTE YOUR FIREBASE KEYS HERE ⬇️
 const firebaseConfig = {
     
-  apiKey: "AIzaSyDujlvcsjzbDzq4LMT2ehjG1DtEC7qiIQs",
-  authDomain: "sweet-shop-kata.firebaseapp.com",
+  apiKey: "your_api",
+  authDomain: "your_domaian",
   projectId: "sweet-shop-kata",
   storageBucket: "sweet-shop-kata.firebasestorage.app",
-  messagingSenderId: "940986660708",
-  appId: "1:940986660708:web:2ee5df1d989622bab3ac71",
-  measurementId: "G-YSFL6PCHNL"
+  messagingSenderId: "sendeer_id",
+  appId: "api_id",
+  measurementId: "measurement_id"
 
 };
 // ------------------------------------
